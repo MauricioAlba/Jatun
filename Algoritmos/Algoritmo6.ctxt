@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Algoritmo6
+comment0.text=\r\n\ Cuantos\ minutos\ duermen\ los\ jovenes.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=int\ calcularHora()
+comment2.params=
+comment2.target=int\ calcularMinutos()
+numComments=3

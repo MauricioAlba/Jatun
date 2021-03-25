@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Bateria
+comment0.text=\r\n\ Calcula\ la\ bateria\ restante\ del\ celular.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pestadoBateria\ pJuegos\ pRevisarRedesSociales\ pVerYoutube
+comment1.target=int\ bateriaRestante(int,\ int,\ int,\ int)
+numComments=2
