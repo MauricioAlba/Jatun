@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=InicioDeLaPrimavera
-comment0.text=\r\n\ Indica\ cuanto\ falta\ para\ el\ inicio\ de\ \ la\ primavera.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
-comment1.params=horaActual
-comment1.target=int\ calcularTiempoRestante(int)
-numComments=2

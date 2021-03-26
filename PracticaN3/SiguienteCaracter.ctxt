@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=SiguienteCaracter
-comment0.text=\r\n\ Evalua\ un\ caracter\ y\ devuelve\ el\ siguiente\ caracter.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
-comment1.params=caracter
-comment1.target=char\ siguienteCaracter(char)
-numComments=2

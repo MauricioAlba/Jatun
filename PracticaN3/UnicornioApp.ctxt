@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=UnicornioApp
-comment0.text=\r\n\ Calcula\ cuantos\ usarios\ mas\ puedes\ seguir.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
-comment1.params=uSiguiendo\ uQueTeSiguen
-comment1.target=int\ usuariosAdicionales(int,\ int)
-numComments=2

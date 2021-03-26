@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=OrganizarNumeros
-comment0.text=\r\n\ organiza\ los\ digitos\ ingresados.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
-comment1.params=a\ b\ c
-comment1.target=int\ organizarNumeros(int,\ int,\ int)
-numComments=2
