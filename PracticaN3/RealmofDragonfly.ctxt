@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RealmofDragonfly
+comment0.text=\r\n\ Calcula\ el\ da\u00F1o\ maximo\ del\ item.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=p\ x\ n
+comment1.target=int\ calcularMaximaPotencia(int,\ int,\ int)
+numComments=2

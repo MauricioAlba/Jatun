@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Gotero
+comment0.text=\r\n\ Calcula\ cuantos\ mL.\ en\ el\ gotero\ despues\ de\ un\ tiempo.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=aguaAlmacenada\ segundosTranscurridos
+comment1.target=int\ calcularCantidad(int,\ int)
+numComments=2

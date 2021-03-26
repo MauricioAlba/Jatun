@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalcularDodecagono
+comment0.text=\r\n\ Calculamos\ el\ area\ de\ un\ dodecagono\ inscrito\ en\ un\ circulo.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=radio
+comment1.target=int\ calcularArea(int)
+numComments=2
