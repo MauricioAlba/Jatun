@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN4
+comment0.text=\r\n\ Determinar\ el\ color\ del\ semaforo\ actual\ despues\ de\ n\ veces\ cambio.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=colorSem\ numero
+comment1.target=java.lang.String\ mostrarEstadoSemaforo(java.lang.String,\ int)
+numComments=2

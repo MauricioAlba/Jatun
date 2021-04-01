@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN2
+comment0.text=\r\n\ Determina\ la\ combinacion\ de\ 2\ jugos\ mas\ barata.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=pJugo1\ pJugo2\ pJugo3
+comment1.target=int\ calcularCombinacionDeJugos(int,\ int,\ int)
+numComments=2

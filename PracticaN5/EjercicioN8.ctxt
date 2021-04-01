@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN8
+comment0.text=\r\n\ Escribir\ de\ forma\ literal\ la\ fecha\ ingresada\ de\ manera\ numerica.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=dia\ mes\ a\u00F1o
+comment1.target=java.lang.String\ mostrarFecha(int,\ int,\ int)
+numComments=2

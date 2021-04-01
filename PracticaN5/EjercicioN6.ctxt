@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN6
+comment0.text=\r\n\ Identificar\ quien\ es\ el\ mayor,\ el\ mediano\ y\ el\ menor.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=hijo1\ edad1\ hijo2\ edad2\ hijo3\ edad3
+comment1.target=java.lang.String\ identificarHijos(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=2
