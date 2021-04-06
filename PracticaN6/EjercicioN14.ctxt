@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN14
+comment0.text=\r\n\ Verifica\ si\ dos\ numeros\ son\ pareja.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=num1\ num2
+comment1.target=java.lang.String\ verificarNumParejas(int,\ int)
+numComments=2

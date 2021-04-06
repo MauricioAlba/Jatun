@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN12
+comment0.text=\r\n\ Calcular\ la\ division\ de\ dos\ numeros\ de\ la\ manera\ clasica.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=num1\ num2
+comment1.target=int\ division(int,\ int)
+numComments=2

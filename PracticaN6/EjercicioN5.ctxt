@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN5
+comment0.text=\r\n\ Calcular\ la\ cantidad\ de\ acarreos\ efectuados\ en\ la\ suma.\r\n\ \r\n\ @author\ (Mauicio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=num1\ num2
+comment1.target=int\ contarAcarreos(int,\ int)
+numComments=2

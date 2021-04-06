@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN6
+comment0.text=\ \r\n\ Verificar\ si\ el\ numero\ ingresado\ es\ perfecto,abundante\ o\ defectivo.\r\n\ \r\n\ @author\ (Mauicio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=numero
+comment1.target=java.lang.String\ verificarNumero(int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioN10
+comment0.text=\r\n\ Verificar\ si\ el\ valor\ ingresado\ en\ notacion\ decimal\ es\ Odioso\ o\ Malvado.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=numDecimal
+comment1.target=java.lang.String\ verificarNumOdiosoMalvado(int)
+numComments=2
