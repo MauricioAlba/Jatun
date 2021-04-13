@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SylvanoCornio
+comment0.text=\r\n\ Simula\ un\ SylvanoCornio\ el\ cual\ crea\ Reflejos\ de\ lagrimas\ a\ partir\r\n\ de\ savila.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=SylvanoCornio()
+comment2.params=cantSavia
+comment2.target=java.lang.String\ recolectarSavia(int)
+comment3.params=
+comment3.target=java.lang.String\ crearReflejosDeLagrimas()
+comment4.params=
+comment4.target=java.lang.String\ retirarComponente()
+comment5.params=
+comment5.target=void\ encenderSylvanoCornio()
+comment6.params=
+comment6.target=void\ apagarSylvanoCornio()
+numComments=7

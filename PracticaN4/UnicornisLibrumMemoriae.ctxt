@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=UnicornisLibrumMemoriae
+comment0.text=\r\n\ Simula\ una\ libreta\ co\ funcion\ recordatorio.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nuevaTarea
+comment1.target=UnicornisLibrumMemoriae(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEstadoTareaActual()
+comment3.params=
+comment3.target=void\ concluirTarea()
+comment4.params=nuevaTarea
+comment4.target=java.lang.String\ nuevaTarea(java.lang.String)
+comment5.params=
+comment5.target=int\ getCantTareas()
+numComments=6

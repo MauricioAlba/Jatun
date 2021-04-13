@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EnBuscaDelDracoCornio
+comment0.text=\r\n\ Simula\ un\ juego\ de\ battleship.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=posicionX\ posicionY
+comment1.target=EnBuscaDelDracoCornio(int,\ int)
+comment2.params=
+comment2.target=void\ reiniciarJuego()
+comment3.params=pingresadaX\ pingresadaY
+comment3.target=java.lang.String\ evaluarPosicion(int,\ int)
+comment4.params=x
+comment4.target=java.lang.String\ evaluarPosicionX(int)
+comment5.params=y
+comment5.target=java.lang.String\ evaluarPosicionY(int)
+numComments=6

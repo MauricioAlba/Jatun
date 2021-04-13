@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RitmoCornio
+comment0.text=\r\n\ Simula\ un\ reproductor\ de\ musica\ simple.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=RitmoCornio()
+comment2.params=
+comment2.target=java.lang.String\ reproducirCancion()
+comment3.params=
+comment3.target=java.lang.String\ pausarCancion()
+comment4.params=
+comment4.target=void\ setCancion()
+comment5.params=
+comment5.target=java.lang.String\ getCancion()
+numComments=6

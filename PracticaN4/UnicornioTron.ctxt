@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=UnicornioTron
+comment0.text=\r\n\ Simula\ una\ maquina\ de\ apuesta.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=premio
+comment1.target=UnicornioTron(int)
+comment2.params=numIngresado
+comment2.target=java.lang.String\ adivinarNumero(int)
+comment3.params=
+comment3.target=void\ recargarMaquina()
+comment4.params=numFichas
+comment4.target=void\ insertarFichas(int)
+comment5.params=
+comment5.target=int\ getPremio()
+numComments=6

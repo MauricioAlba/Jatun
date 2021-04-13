@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UnicornioBaul
+comment0.text=\r\n\ Simula\ una\ caja\ de\ seguridad.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=UnicornioBaul()
+comment2.params=contrase\u00F1a
+comment2.target=java.lang.String\ abrirBaul(int)
+comment3.params=
+comment3.target=java.lang.String\ cerrarBaul()
+comment4.params=nuevaContrase\u00F1a
+comment4.target=java.lang.String\ cambiarContrase\u00F1a(int)
+numComments=5

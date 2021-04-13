@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UnicornioRegistradora
+comment0.text=\r\n\ Simula\ una\ caja\ registradora.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=UnicornioRegistradora()
+comment2.params=precioProducto\ cantProductos
+comment2.target=void\ sumarProducto(int,\ int)
+comment3.params=
+comment3.target=int\ getTotalPagar()
+comment4.params=dineroIngresado
+comment4.target=java.lang.String\ pagarProductos(int)
+numComments=5
