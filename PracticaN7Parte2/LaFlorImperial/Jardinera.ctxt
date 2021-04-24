@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Jardinera
+comment0.text=\r\n\ Simula\ una\ jardinera.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Jardinera()
+comment2.params=nuevaFlor
+comment2.target=java.lang.String\ agregarFlor(FlorImperial)
+comment3.params=posicion
+comment3.target=java.lang.String\ crecerFlor(int)
+comment4.params=posicion
+comment4.target=java.lang.String\ verTama\u00F1oAct(int)
+numComments=5

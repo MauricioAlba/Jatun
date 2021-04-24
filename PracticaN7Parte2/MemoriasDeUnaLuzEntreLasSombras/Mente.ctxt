@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mente
+comment0.text=\r\n\ Simula\ una\ mente\ que\ puede\ guardar\ recuerdos.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tam
+comment1.target=Mente(int)
+comment2.params=nuevo
+comment2.target=java.lang.String\ agregarRecuerdos(Recuerdos)
+comment3.params=
+comment3.target=java.lang.String\ obtenerRecuerdosDeLuz()
+comment4.params=
+comment4.target=void\ ordeanarPorDia()
+numComments=5

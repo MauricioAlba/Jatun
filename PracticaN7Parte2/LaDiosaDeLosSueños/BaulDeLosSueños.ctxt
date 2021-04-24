@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BaulDeLosSue\u00F1os
+comment0.text=\r\n\ Simula\ una\ reliquia\ que\ cumple\ los\ sue\u00F1os.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tam
+comment1.target=BaulDeLosSue\u00F1os(int)
+comment2.params=newDream
+comment2.target=java.lang.String\ agregarDream(Dreams)
+comment3.params=
+comment3.target=void\ ordenarPorPrioridad()
+comment4.params=
+comment4.target=java.lang.String\ cumplirPrimerDeseo()
+comment5.params=topico
+comment5.target=java.lang.String\ cumplirDeseoPorTopico(java.lang.String)
+comment6.params=posicion
+comment6.target=void\ actualizarArreglo(int)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dreams
+comment0.text=\r\n\ Simula\ un\ dream\ de\ la\ gente.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=prioridad\ topico\ descripcion
+comment1.target=Dreams(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrioridad()
+comment3.params=
+comment3.target=java.lang.String\ getTopico()
+comment4.params=
+comment4.target=java.lang.String\ getDescripcion()
+numComments=5

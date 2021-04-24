@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PiedraDeHelitz
+comment0.text=\r\n\ Simula\ un\ reproductor\ de\ musica\ magico.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tam
+comment1.target=PiedraDeHelitz(int)
+comment2.params=
+comment2.target=void\ ordenarPorAutor()
+comment3.params=
+comment3.target=void\ ordenarPorTituloCancion()
+comment4.params=nuevaCancion
+comment4.target=java.lang.String\ agregarCancion(Cancion)
+comment5.params=
+comment5.target=int\ buscarPosLibre()
+comment6.params=posicion
+comment6.target=java.lang.String\ quitarCancion(int)
+comment7.params=nuevaCancion\ posicion
+comment7.target=java.lang.String\ reemplazarCancion(Cancion,\ int)
+comment8.params=pos\ cadena1\ cadena2
+comment8.target=void\ ordenarCadena(int,\ java.lang.String,\ java.lang.String)
+numComments=9

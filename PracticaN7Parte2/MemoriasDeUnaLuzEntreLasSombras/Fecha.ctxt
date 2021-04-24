@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fecha
+comment0.text=\r\n\ Esta\ clase\ nos\ ayudara\ a\ manejar\ las\ fechas.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=day\ month\ year
+comment1.target=Fecha(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDay()
+comment3.params=
+comment3.target=int\ getMonth()
+comment4.params=
+comment4.target=int\ getYear()
+numComments=5

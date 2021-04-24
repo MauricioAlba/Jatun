@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cancion
+comment0.text=\r\n\ Simula\ una\ cancion.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nombreAutor\ tituloCancion
+comment1.target=Cancion(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombreAutor()
+comment3.params=
+comment3.target=java.lang.String\ getTituloCancion()
+comment4.params=
+comment4.target=Cancion\ getCancion()
+numComments=5

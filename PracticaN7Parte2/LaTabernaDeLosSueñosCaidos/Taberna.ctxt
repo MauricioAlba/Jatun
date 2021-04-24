@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Taberna
+comment0.text=\r\n\ Simula\ un\ almacen\ de\ los\ recuerdos\ que\ olvidamos.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tam
+comment1.target=Taberna(int)
+comment2.params=nombre
+comment2.target=java.lang.String\ buscarSue\u00F1os(java.lang.String)
+comment3.params=nuevo
+comment3.target=java.lang.String\ almacenarSue\u00F1os(Sue\u00F1o)
+comment4.params=posicion
+comment4.target=java.lang.String\ eliminarSue\u00F1os(int)
+comment5.params=
+comment5.target=int\ buscarPosLibre()
+comment6.params=
+comment6.target=java.lang.String\ verDetallesSue\u00F1os()
+numComments=7
