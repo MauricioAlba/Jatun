@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnteTuMajestuosaInmensidad
+comment0.text=\r\n\ Clasifica\ la\ luminosidad\ de\ las\ estrellas\ de\ una\ manera\ peculiar.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=arreglo
+comment1.target=int[]\ ordenarPorLuminosidad(int[])
+numComments=2

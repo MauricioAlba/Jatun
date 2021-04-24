@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AnomaliaEnEquilibrio
+comment0.text=\r\n\ Hallar\ el\ numero\ en\ desequilibrio\ dentro\ del\ arreglo.\r\n\ \r\n\ @author\ (Mauricio)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=arreglo
+comment1.target=java.lang.String\ buscarNumeroDesequilibrio(int[])
+comment2.params=inicio\ fin\ arreglo
+comment2.target=int\ sumarNumeros(int,\ int,\ int[])
+numComments=3

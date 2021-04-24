@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EstrellasSinBrillar
+comment0.text=\r\n\ Analiza\ el\ cielo\ limitado\ y\ busca\ las\ estrellas\ que\ han\ dejado\ de\ brillar.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=arreglo\ inicio\ fin
+comment1.target=java.lang.String\ contarEstrellasSinLuz(int[],\ int,\ int)
+numComments=2

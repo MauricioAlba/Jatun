@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=JuegoDeLaSombra
+comment0.text=\r\n\ Simularemos\ el\ juego\ de\ la\ sombra.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=valorInicialSombra\ cantHoras
+comment1.target=java.lang.String\ generarSombra(int,\ int)
+comment2.params=arreglo
+comment2.target=java.lang.String\ generarArreglo(int[])
+numComments=3
