@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LaProclamacionDeMiAnhelo
+comment0.text=\r\n\ Implementa\ un\ metodo\ el\ cual\ cuenta\ la\ cantidad\ de\ signos\ se\ puntuacion.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cadena
+comment1.target=java.lang.String\ contarSignosPuntuacion(java.lang.String)
+comment2.params=letra
+comment2.target=int\ buscarSignosDePuntuacion(int)
+numComments=3

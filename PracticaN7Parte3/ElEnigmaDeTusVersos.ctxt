@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ElEnigmaDeTusVersos
+comment0.text=\r\n\ Simula\ un\ juego\ logico.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=verso\ palabra
+comment1.target=java.lang.String\ verificarPalabraEnVerso(java.lang.String,\ java.lang.String)
+numComments=2

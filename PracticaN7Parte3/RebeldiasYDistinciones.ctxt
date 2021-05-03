@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RebeldiasYDistinciones
+comment0.text=\r\n\ Contar\ la\ cantidad\ de\ vocales\ que\ hay\ en\ la\ cadena.\r\n\ \r\n\ @author\ (Matt4)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=cad
+comment1.target=java.lang.String\ contarVocales(java.lang.String)
+comment2.params=letra
+comment2.target=int\ buscarVocales(int)
+numComments=3
