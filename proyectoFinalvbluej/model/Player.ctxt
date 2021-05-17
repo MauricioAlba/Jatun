@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ cardsPlayer
+comment1.target=Player(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.util.ArrayList\ getCardsPlayer()
+comment6.params=newCard
+comment6.target=void\ setCardsPlayer(UnoCard)
+comment7.params=newCard
+comment7.target=void\ dejarCard(UnoCard)
+comment8.params=
+comment8.target=void\ setStatus()
+comment9.params=
+comment9.target=boolean\ getStatus()
+numComments=10
